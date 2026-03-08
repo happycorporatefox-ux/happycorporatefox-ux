@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Happy Fox
+# 👋 Hi, I'm David Tanaka
 
 🚀 Senior Software Engineer • Java & Kotlin Specialist • Distributed Systems
 
